@@ -1,4 +1,5 @@
 ### Hi there 👋
+![senou kODJO MATTHIEU (3)](https://user-images.githubusercontent.com/117777066/223229454-47fe0a7d-ba2a-4d5a-9f0a-6f353db7c3c1.gif)
 
 <!--
 **Matthieu96Code/Matthieu96Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
