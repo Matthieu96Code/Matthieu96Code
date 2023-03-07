@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthieu96code&label=Profile%20views&color=0e75b6&style=flat" alt="matthieu96code" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matthieu96code" alt="matthieu96code" /></a> </p>
-
 - 🔭 I’m currently working on **my portofolio real version**
 
 - 🌱 I’m currently learning **React and Redux**
@@ -29,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matthieu96code&show_icons=true&locale=en" alt="matthieu96code" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matthieu96code&" alt="matthieu96code" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matthieu96code" alt="matthieu96code" /></a> </p>
