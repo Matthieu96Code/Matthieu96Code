@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Matthieu Senou</h1>
+<h1 align="center">Hi there 👋</h1>
 
-<p align="center"> <video src="https://github.com/Matthieu96Code/Matthieu96Code/blob/main/img/banner.png" alt="matthieu96code" /></p>
+<p align="center"> <img src="https://github.com/Matthieu96Code/Matthieu96Code/blob/main/img/banner.png" alt="matthieu96code" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthieu96code&label=Profile%20views&color=0e75b6&style=flat" alt="matthieu96code" /> </p>
 
