@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthieu96code&label=Profile%20views&color=0e75b6&style=flat" alt="matthieu96code" /> </p>
 
+<p align="left"> <img src="" alt="matthieu96code" /></p>
+
 - 🔭 I’m currently working on **my portofolio real version**
 
 - 🌱 I’m currently learning **React and Redux**
