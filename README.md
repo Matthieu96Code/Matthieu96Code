@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matthieu Senou</h1>
 <h3 align="center">A passionate frontend developer from Togo</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matthieu96code&label=Profile%20views&color=0e75b6&style=flat" alt="matthieu96code" /> </p>
+<p align="center"> <video src="https://github.com/Matthieu96Code/Matthieu96Code/blob/main/img/kodjo%20matthieu%20senou.mp4" alt="matthieu96code" /></p>
 
-<p align="left"> <img src="https://github.com/Matthieu96Code/Matthieu96Code/blob/main/img/kodjo%20matthieu%20senou.png" alt="matthieu96code" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matthieu96code&label=Profile%20views&color=0e75b6&style=flat" alt="matthieu96code" /> </p>
 
 - 🔭 I’m currently working on **my portofolio real version**
 
